@@ -23,8 +23,7 @@ Programmet skal først tage imod to tal, som man taster ind et ad gangen. Hereft
 Du skal lave et program der kan bruges til at taste persondata ind, som programmet efterfølgende kan udskrive. Programmet skal kunne tage imod tre stykker data: Navn, Telefonnummer, og Addresse. De tre stykker data skal gemmes i variabler indtil de skal udskrives. 
 
 Du skal programmere udskriftet i en funktion, der tager imod tre parametre: Navn, Telefonnummer og Addresse. Funktionen skal tage hver parameter og udskrive den med print() funktionen. Du skal bruge funktionen til at udskrive de data der kommer som input efter de er blevet gemt i variabler. 
-
-​### Gentageren
+### Gentageren
 Gentageren er delt op i 3 dele
 ​
 ### Gentageren 1
